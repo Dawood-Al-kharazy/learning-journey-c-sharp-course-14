@@ -41,3 +41,4 @@ D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinForms
 D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.csproj.CoreCompileInputs.cache
 D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.exe
 D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.pdb
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.frmTimer.resources

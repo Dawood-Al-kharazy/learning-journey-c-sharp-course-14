@@ -39,7 +39,8 @@
             this.button7 = new System.Windows.Forms.Button();
             this.button8 = new System.Windows.Forms.Button();
             this.button9 = new System.Windows.Forms.Button();
-            this.button10 = new System.Windows.Forms.Button();
+            this.btnMonthCalendar = new System.Windows.Forms.Button();
+            this.btnTimer = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnShowPart1
@@ -163,23 +164,35 @@
             this.button9.UseVisualStyleBackColor = true;
             this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
-            // button10
+            // btnMonthCalendar
             // 
-            this.button10.Location = new System.Drawing.Point(552, 460);
-            this.button10.Margin = new System.Windows.Forms.Padding(4);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(176, 66);
-            this.button10.TabIndex = 11;
-            this.button10.Text = "DateTimePicker";
-            this.button10.UseVisualStyleBackColor = true;
-            this.button10.Click += new System.EventHandler(this.button10_Click);
+            this.btnMonthCalendar.Location = new System.Drawing.Point(552, 460);
+            this.btnMonthCalendar.Margin = new System.Windows.Forms.Padding(4);
+            this.btnMonthCalendar.Name = "btnMonthCalendar";
+            this.btnMonthCalendar.Size = new System.Drawing.Size(176, 66);
+            this.btnMonthCalendar.TabIndex = 11;
+            this.btnMonthCalendar.Text = "Month Calendar";
+            this.btnMonthCalendar.UseVisualStyleBackColor = true;
+            this.btnMonthCalendar.Click += new System.EventHandler(this.button10_Click);
+            // 
+            // btnTimer
+            // 
+            this.btnTimer.Location = new System.Drawing.Point(763, 70);
+            this.btnTimer.Margin = new System.Windows.Forms.Padding(4);
+            this.btnTimer.Name = "btnTimer";
+            this.btnTimer.Size = new System.Drawing.Size(176, 66);
+            this.btnTimer.TabIndex = 12;
+            this.btnTimer.Text = "Timer";
+            this.btnTimer.UseVisualStyleBackColor = true;
+            this.btnTimer.Click += new System.EventHandler(this.btnTimer_Click);
             // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1467, 617);
-            this.Controls.Add(this.button10);
+            this.Controls.Add(this.btnTimer);
+            this.Controls.Add(this.btnMonthCalendar);
             this.Controls.Add(this.button9);
             this.Controls.Add(this.button8);
             this.Controls.Add(this.button7);
@@ -211,6 +224,7 @@
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Button button8;
         private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Button button10;
+        private System.Windows.Forms.Button btnMonthCalendar;
+        private System.Windows.Forms.Button btnTimer;
     }
 }

@@ -96,5 +96,11 @@ namespace MyFirstWinFormsProject
             Form frm1 = new frmMonthCalendar();
             frm1.ShowDialog();
         }
+
+        private void btnTimer_Click(object sender, EventArgs e)
+        {
+            Form frm1 = new frmTimer();
+            frm1.ShowDialog();
+        }
     }
 }
