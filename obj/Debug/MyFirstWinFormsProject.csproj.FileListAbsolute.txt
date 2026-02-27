@@ -19,3 +19,25 @@ C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFor
 C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmLinkLable.resources
 C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmCheckedListBox.resources
 C:\Users\Acer\Dropbox\Personal\Advices\2021\14- C# Level1\Projects\MyFirstWinFormsProject\obj\Debug\MyFirstWinFormsProject.frmDateTimePicker.resources
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\bin\Debug\MyFirstWinFormsProject.exe.config
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\bin\Debug\MyFirstWinFormsProject.exe
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\bin\Debug\MyFirstWinFormsProject.pdb
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.csproj.AssemblyReference.cache
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.Form1.resources
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.frmCheckedListBox.resources
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.frmChkRadioGroup.resources
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.frmComboBox.resources
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.frmDateTimePicker.resources
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.frmLinkLable.resources
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.frmMain.resources
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.frmMaskedTextBox.resources
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.frmMessageBox.resources
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.frmMonthCalendar.resources
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.frmPictureBox.resources
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.frmTextBox.resources
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.Properties.Resources.resources
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.csproj.GenerateResource.cache
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.csproj.CoreCompileInputs.cache
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.exe
+D:\Workspace\CSharp\learning-journey-c-sharp-course-14\obj\Debug\MyFirstWinFormsProject.pdb

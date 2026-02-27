@@ -100,6 +100,12 @@
     <Compile Include="frmMessageBox.Designer.cs">
       <DependentUpon>frmMessageBox.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmMonthCalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMonthCalendar.Designer.cs">
+      <DependentUpon>frmMonthCalendar.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmPictureBox.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -140,6 +146,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmMessageBox.resx">
       <DependentUpon>frmMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMonthCalendar.resx">
+      <DependentUpon>frmMonthCalendar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmPictureBox.resx">
       <DependentUpon>frmPictureBox.cs</DependentUpon>
