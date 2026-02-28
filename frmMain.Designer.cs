@@ -41,12 +41,13 @@
             this.button9 = new System.Windows.Forms.Button();
             this.btnMonthCalendar = new System.Windows.Forms.Button();
             this.btnTimer = new System.Windows.Forms.Button();
+            this.btnNotityIcon = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnShowPart1
             // 
             this.btnShowPart1.Location = new System.Drawing.Point(97, 70);
-            this.btnShowPart1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnShowPart1.Margin = new System.Windows.Forms.Padding(4);
             this.btnShowPart1.Name = "btnShowPart1";
             this.btnShowPart1.Size = new System.Drawing.Size(176, 66);
             this.btnShowPart1.TabIndex = 0;
@@ -57,7 +58,7 @@
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(97, 175);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(176, 66);
             this.button1.TabIndex = 1;
@@ -68,7 +69,7 @@
             // btnMessageBoxForm
             // 
             this.btnMessageBoxForm.Location = new System.Drawing.Point(347, 70);
-            this.btnMessageBoxForm.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnMessageBoxForm.Margin = new System.Windows.Forms.Padding(4);
             this.btnMessageBoxForm.Name = "btnMessageBoxForm";
             this.btnMessageBoxForm.Size = new System.Drawing.Size(176, 66);
             this.btnMessageBoxForm.TabIndex = 2;
@@ -79,7 +80,7 @@
             // button2
             // 
             this.button2.Location = new System.Drawing.Point(347, 175);
-            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(176, 66);
             this.button2.TabIndex = 3;
@@ -90,7 +91,7 @@
             // button3
             // 
             this.button3.Location = new System.Drawing.Point(347, 279);
-            this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(176, 66);
             this.button3.TabIndex = 4;
@@ -101,7 +102,7 @@
             // button4
             // 
             this.button4.Location = new System.Drawing.Point(347, 368);
-            this.button4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button4.Margin = new System.Windows.Forms.Padding(4);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(176, 66);
             this.button4.TabIndex = 5;
@@ -112,7 +113,7 @@
             // button5
             // 
             this.button5.Location = new System.Drawing.Point(347, 460);
-            this.button5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button5.Margin = new System.Windows.Forms.Padding(4);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(176, 66);
             this.button5.TabIndex = 6;
@@ -123,7 +124,7 @@
             // button6
             // 
             this.button6.Location = new System.Drawing.Point(552, 70);
-            this.button6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button6.Margin = new System.Windows.Forms.Padding(4);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(176, 66);
             this.button6.TabIndex = 7;
@@ -134,7 +135,7 @@
             // button7
             // 
             this.button7.Location = new System.Drawing.Point(552, 175);
-            this.button7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button7.Margin = new System.Windows.Forms.Padding(4);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(176, 66);
             this.button7.TabIndex = 8;
@@ -145,7 +146,7 @@
             // button8
             // 
             this.button8.Location = new System.Drawing.Point(552, 279);
-            this.button8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button8.Margin = new System.Windows.Forms.Padding(4);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(176, 66);
             this.button8.TabIndex = 9;
@@ -156,7 +157,7 @@
             // button9
             // 
             this.button9.Location = new System.Drawing.Point(552, 368);
-            this.button9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button9.Margin = new System.Windows.Forms.Padding(4);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(176, 66);
             this.button9.TabIndex = 10;
@@ -186,11 +187,23 @@
             this.btnTimer.UseVisualStyleBackColor = true;
             this.btnTimer.Click += new System.EventHandler(this.btnTimer_Click);
             // 
+            // btnNotityIcon
+            // 
+            this.btnNotityIcon.Location = new System.Drawing.Point(763, 175);
+            this.btnNotityIcon.Margin = new System.Windows.Forms.Padding(4);
+            this.btnNotityIcon.Name = "btnNotityIcon";
+            this.btnNotityIcon.Size = new System.Drawing.Size(176, 66);
+            this.btnNotityIcon.TabIndex = 13;
+            this.btnNotityIcon.Text = "Notity Icon";
+            this.btnNotityIcon.UseVisualStyleBackColor = true;
+            this.btnNotityIcon.Click += new System.EventHandler(this.btnNotityIcon_Click);
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1467, 617);
+            this.Controls.Add(this.btnNotityIcon);
             this.Controls.Add(this.btnTimer);
             this.Controls.Add(this.btnMonthCalendar);
             this.Controls.Add(this.button9);
@@ -204,7 +217,7 @@
             this.Controls.Add(this.btnMessageBoxForm);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btnShowPart1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmMain";
             this.Text = "Main Form";
             this.ResumeLayout(false);
@@ -226,5 +239,6 @@
         private System.Windows.Forms.Button button9;
         private System.Windows.Forms.Button btnMonthCalendar;
         private System.Windows.Forms.Button btnTimer;
+        private System.Windows.Forms.Button btnNotityIcon;
     }
 }
